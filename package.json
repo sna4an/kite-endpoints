@@ -8,9 +8,6 @@
     "start": "next start"
   },
   "dependencies": {
-    "@x402/core": "latest",
-    "@x402/evm": "latest",
-    "@x402/next": "latest",
     "next": "^16.2.6",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
